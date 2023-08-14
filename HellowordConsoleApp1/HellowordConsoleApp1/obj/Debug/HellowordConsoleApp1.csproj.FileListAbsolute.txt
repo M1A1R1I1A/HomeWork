@@ -1,0 +1,8 @@
+D:\My project (2)\visual\HellowordConsoleApp1\HellowordConsoleApp1\bin\Debug\HellowordConsoleApp1.exe.config
+D:\My project (2)\visual\HellowordConsoleApp1\HellowordConsoleApp1\bin\Debug\HellowordConsoleApp1.exe
+D:\My project (2)\visual\HellowordConsoleApp1\HellowordConsoleApp1\bin\Debug\HellowordConsoleApp1.pdb
+D:\My project (2)\visual\HellowordConsoleApp1\HellowordConsoleApp1\obj\Debug\HellowordConsoleApp1.csproj.AssemblyReference.cache
+D:\My project (2)\visual\HellowordConsoleApp1\HellowordConsoleApp1\obj\Debug\HellowordConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\My project (2)\visual\HellowordConsoleApp1\HellowordConsoleApp1\obj\Debug\HellowordConsoleApp1.csproj.CoreCompileInputs.cache
+D:\My project (2)\visual\HellowordConsoleApp1\HellowordConsoleApp1\obj\Debug\HellowordConsoleApp1.exe
+D:\My project (2)\visual\HellowordConsoleApp1\HellowordConsoleApp1\obj\Debug\HellowordConsoleApp1.pdb
